@@ -1,4 +1,4 @@
-// 获取程序
+// 获取程序的
 angular.module("myApp",['ui.router'])
 // 配置路由
 .config(function ($stateProvider,$urlRouterProvider){
